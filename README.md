@@ -1,2 +1,3 @@
 # Curso em Vídeo
- Curso HTML /CSS
+
+Repositório criado para o Curso HTML /CSS
